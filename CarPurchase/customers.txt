@@ -1,0 +1,5 @@
+user1 1234 user1@gmail.com 
+user2 4321 user2@gmail.com 
+user3 password123 user3@gmail.com 
+customer1 password customer1@gmail.com 
+a a a 
